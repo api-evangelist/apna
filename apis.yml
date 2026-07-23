@@ -1,7 +1,11 @@
 aid: apna
 name: Apna
-description: Apna is a company surfaced as a portfolio company of insight-partners and added to the API
-  Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: Apna is India's leading professional networking and job-search platform, headquartered in
+  Mumbai, India. Job seekers use Apna to search and apply to jobs online for free, join profession and
+  location-based community groups, build a professional profile, and prepare for interviews, while
+  employers post job vacancies and hire quality candidates in as little as 48 hours. Apna is a portfolio
+  company of Insight Partners. At the time of this profile Apna does not publish a public developer API,
+  SDKs, or API documentation; this entry captures its public identity and web properties.
 url: https://raw.githubusercontent.com/api-evangelist/apna/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -9,17 +13,54 @@ x-backed-by:
 - insight-partners
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 specificationVersion: '0.20'
 created: '2026-07-17'
 modified: '2026-07-17'
+image: https://apna.co/apna-time-icon.png
 tags:
 - Company
+- Jobs
+- Recruiting
+- Professional Networking
+- Hiring
+- Career
+- India
 apis: []
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+- FN: Apna Support
+  email: support@apna.co
 common:
 - type: Website
   url: https://apna.co/
+- type: Blog
+  url: https://apna.co/career-central
+- type: SignUp
+  url: https://apna.co/login
+- type: PrivacyPolicy
+  url: https://apna.co/privacy
+- type: TermsOfService
+  url: https://apna.co/terms-of-service
+- type: DomainSecurity
+  url: security/apna-domain-security.yml
+- type: LLMsTxt
+  url: llms/apna-llms.txt
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence

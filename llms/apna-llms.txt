@@ -1,0 +1,18 @@
+# Apna
+
+> Apna is India's leading professional networking and job-search platform, based in Mumbai. Job seekers search and apply to jobs for free, join community groups, and prepare for interviews; employers post vacancies and hire quality candidates in as little as 48 hours. Apna is a portfolio company of Insight Partners. As of this profile, Apna does not publish a public developer API, SDKs, or API documentation.
+
+## Product
+- [Search Jobs](https://apna.co/jobs): Search and apply to jobs online for free
+- [Post a Job / Hire](https://careers.apna.co/): Employer product to post vacancies and hire candidates
+- [Career Central](https://apna.co/career-central): Career advice, guides, and content hub
+- [Log In](https://apna.co/login): Job seeker and employer sign-in
+
+## Company
+- [Website](https://apna.co/)
+- [Privacy Policy](https://apna.co/privacy)
+- [Terms of Service](https://apna.co/terms-of-service)
+- Support: support@apna.co
+
+## Notes
+- No public API, OpenAPI, MCP server, or developer portal was found at the time of profiling (2026-07-17).
