@@ -2,10 +2,6 @@
   "repo": "apna",
   "feeds": [
     {
-      "source": "https://apna.co/blog/feed/",
-      "error": "HTTPError"
-    },
-    {
       "source": "https://apna.co/",
       "feed_url": "https://apna.co/",
       "title": "",
@@ -14,5 +10,5 @@
     }
   ],
   "post_count": 10,
-  "fetched": "2026-08-15T12:22:01Z"
+  "fetched": "2026-08-22T20:20:02Z"
 }
